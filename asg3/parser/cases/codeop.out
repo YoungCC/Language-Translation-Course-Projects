@@ -1,0 +1,7 @@
+("68:0: '_maybe_compile'", 12)
+("101:0: '_compile'", 1)
+("104:0: 'compile_command'", 1)
+("129:4: 'Compile.__init__'", 1)
+("132:4: 'Compile.__call__'", 3)
+("146:4: 'CommandCompiler.__init__'", 1)
+("149:4: 'CommandCompiler.__call__'", 1)

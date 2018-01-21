@@ -1,0 +1,4 @@
+("75:4: '_Feature.__init__'", 1)
+("80:4: '_Feature.getOptionalRelease'", 1)
+("88:4: '_Feature.getMandatoryRelease'", 1)
+("97:4: '_Feature.__repr__'", 1)

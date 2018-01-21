@@ -1,0 +1,25 @@
+class Parent:
+    def _init_(self):
+        self.name = "parent"
+    def getName(self):
+        print self.name
+    class Child:
+        def _init_(self):
+            self.name = 'child'
+        def getName(self):
+            print self.name
+        class Grandchild:
+            def _init_(self):
+                self.name = 'grandchild'
+            def getName(self):
+                print self.name  
+        def x():
+            pass
+    def y():
+    pass
+   
+if _name_ == "main":
+    Child = Parent.Child()
+    Child.getName()
+
+

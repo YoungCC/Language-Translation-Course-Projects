@@ -1,0 +1,13 @@
+Name: Yang Cao
+
+Clemson Email Address: cao9@clemson.edu
+
+Project no: 4
+
+Project due date: Monday, November 13th, 2017
+
+Project description: Using mypy to build an AST representation of the language constructs for expressions which appear in the global namespace of a Python program. Also, using the AST to interpret these expressions. My solution is able to handle integer and float (including positive and negative) values and variables, print, assignment, and expressions, such as: {x+y, x−y, x∗y, x/y, x//y, x%y, x∗∗y, (x), −x, +x}. My solution can also interpret the following additional forms of assignment: { x+ = y, x− = y, x∗ = y, x/ = y, x// = y, x% = y, x** = y }. I wrote several test cases to evaluate my interpreter. All of them pass if you execute command "./test.py", which compares the result that a Python 2.7.6 interpreter would produce and my interpreter returns. I also handled the memory leak problem and avoided double free error. When you run command "valgrind ./run cases/basic.py", it shows my solution is free of leaks. 
+
+The easiest part of this project: All of them.
+
+Problems that I had in completing this project: How to improve the accuracy of computing.

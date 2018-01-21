@@ -1,0 +1,6 @@
+("45:4: 'PyCompileError.__init__'", 2)
+("60:4: 'PyCompileError.__str__'", 1)
+("64:0: 'wr_long'", 1)
+("71:0: 'compile'", 7)
+("131:0: 'main'", 11)
+('If 169', 2)

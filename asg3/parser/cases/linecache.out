@@ -1,0 +1,5 @@
+("13:0: 'getline'", 2)
+("26:0: 'clearcache'", 1)
+("33:0: 'getlines'", 2)
+("43:0: 'checkcache'", 8)
+("68:0: 'updatecache'", 19)

@@ -1,0 +1,24 @@
+class Person:  
+    name = ""  
+    age = 0  
+       
+    def __init__(self, personName, personAge):  
+        self.name = personName  
+        self.age = personAge  
+  
+    #defining class methods  
+    def showName(self):  
+        print(self.name)  
+  
+    def showAge(self):  
+        print(self.age)  
+          
+    #end of class definition  
+  
+# Create an object of the class  
+person1 = Person("Richard", 23)  
+#Create another object of the same class  
+person2 = Person("Anne", 30)  
+#call member methods of the objects  
+person1.showAge()  
+person2.showName() 

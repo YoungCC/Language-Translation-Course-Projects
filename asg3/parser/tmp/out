@@ -1,0 +1,6 @@
+("15:0: 'abstractmethod'", 1)
+("86:4: 'ABCMeta.__new__'", 4)
+("105:4: 'ABCMeta.register'", 4)
+("119:4: 'ABCMeta._dump_registry'", 3)
+("128:4: 'ABCMeta.__instancecheck__'", 5)
+("148:4: 'ABCMeta.__subclasscheck__'", 11)

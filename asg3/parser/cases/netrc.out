@@ -1,0 +1,7 @@
+("12:4: 'NetrcParseError.__init__'", 1)
+("18:4: 'NetrcParseError.__str__'", 1)
+("23:4: 'netrc.__init__'", 4)
+("34:4: 'netrc._parse'", 15)
+("96:4: 'netrc.authenticators'", 3)
+("105:4: 'netrc.__repr__'", 5)
+('If 121', 2)

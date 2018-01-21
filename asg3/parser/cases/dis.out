@@ -1,0 +1,8 @@
+("16:0: 'dis'", 12)
+("51:0: 'distb'", 5)
+("61:0: 'disassemble'", 15)
+("110:0: 'disassemble_string'", 13)
+("152:0: 'findlabels'", 7)
+("178:0: 'findlinestarts'", 5)
+("200:0: '_test'", 6)
+('If 223', 2)

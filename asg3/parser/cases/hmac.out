@@ -1,0 +1,7 @@
+("27:4: 'HMAC.__init__'", 8)
+("80:4: 'HMAC.update'", 1)
+("85:4: 'HMAC.copy'", 1)
+("97:4: 'HMAC._current'", 1)
+("106:4: 'HMAC.digest'", 1)
+("116:4: 'HMAC.hexdigest'", 1)
+("122:0: 'new'", 1)

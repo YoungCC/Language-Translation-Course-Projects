@@ -1,0 +1,6 @@
+("47:4: 'BastionClass.__init__'", 1)
+("60:4: 'BastionClass.__repr__'", 1)
+("70:4: 'BastionClass.__getattr__'", 1)
+("87:0: 'Bastion'", 6)
+("134:0: '_test'", 5)
+('If 179', 2)

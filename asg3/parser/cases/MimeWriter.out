@@ -1,0 +1,8 @@
+("92:4: 'MimeWriter.__init__'", 1)
+("96:4: 'MimeWriter.addheader'", 5)
+("117:4: 'MimeWriter.flushheaders'", 1)
+("128:4: 'MimeWriter.startbody'", 2)
+("145:4: 'MimeWriter.startmultipartbody'", 1)
+("163:4: 'MimeWriter.nextpart'", 1)
+("176:4: 'MimeWriter.lastpart'", 1)
+('If 185', 2)

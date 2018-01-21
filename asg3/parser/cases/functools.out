@@ -1,0 +1,4 @@
+("17:0: 'update_wrapper'", 3)
+("39:0: 'wraps'", 1)
+("53:0: 'total_ordering'", 4)
+("80:0: 'cmp_to_key'", 9)

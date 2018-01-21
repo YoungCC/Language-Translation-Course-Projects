@@ -1,0 +1,8 @@
+("12:4: 'GeneratorContextManager.__init__'", 1)
+("15:4: 'GeneratorContextManager.__enter__'", 3)
+("21:4: 'GeneratorContextManager.__exit__'", 9)
+("54:0: 'contextmanager'", 2)
+("88:0: 'nested'", 1)
+("149:4: 'closing.__init__'", 1)
+("151:4: 'closing.__enter__'", 1)
+("153:4: 'closing.__exit__'", 1)

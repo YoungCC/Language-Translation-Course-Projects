@@ -1,0 +1,6 @@
+("151:4: '_localbase.__new__'", 2)
+("169:0: '_patch'", 3)
+("188:4: 'local.__getattribute__'", 1)
+("197:4: 'local.__setattr__'", 2)
+("210:4: 'local.__delattr__'", 2)
+("223:4: 'local.__del__'", 9)

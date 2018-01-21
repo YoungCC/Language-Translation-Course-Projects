@@ -1,0 +1,5 @@
+("20:0: '_purge'", 1)
+("24:0: 'fnmatch'", 1)
+("45:0: 'filter'", 8)
+("67:0: 'fnmatchcase'", 3)
+("81:0: 'translate'", 11)

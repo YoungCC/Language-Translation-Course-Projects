@@ -1,0 +1,5 @@
+("37:0: 'getstatus'", 1)
+("48:0: 'getoutput'", 1)
+("56:0: 'getstatusoutput'", 3)
+("69:0: 'mk2arg'", 1)
+("81:0: 'mkarg'", 4)

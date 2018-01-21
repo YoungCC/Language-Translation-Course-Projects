@@ -1,0 +1,13 @@
+Name: Yang Cao
+
+Clemson Email Address: cao9@clemson.edu
+
+Project no: 5
+
+Project due date: Friday, December 8th, 2017
+
+Project description: To translate Python functions, including scope resolution and return value propogation. Also, my solution is able to translate if/else and the six relational operators: <, <=, ==, >, >=, ! =. Based on the previous project, I added several test cases to evaluate my interpreter. All of them pass if you execute command "./test.py", which compares the result that a Python 2.7.6 interpreter produces and my interpreter returns. I also handled the memory leak problem and avoided double free error. When you run command "valgrind ./run cases/main.py", it shows my solution is free of leaks. 
+
+The easiest part of this project: Translate if/else.
+
+Problems that I had in completing this project: Handle scope resolution.

@@ -1,0 +1,4 @@
+("20:0: 'lwp_cookie_str'", 11)
+("62:4: 'LWPCookieJar.as_lwp_str'", 4)
+("78:4: 'LWPCookieJar.save'", 3)
+("93:4: 'LWPCookieJar._really_load'", 20)

@@ -1,0 +1,6 @@
+("66:0: '__get_builtin_constructor'", 11)
+("94:0: '__get_openssl_constructor'", 3)
+("106:0: '__py_new'", 1)
+("113:0: '__hash_new'", 3)
+('TryExcept 127', 3)
+('Loop 135', 4)

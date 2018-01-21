@@ -1,0 +1,7 @@
+("48:4: 'Completer.__init__'", 3)
+("75:4: 'Completer.complete'", 6)
+("95:4: 'Completer._callable_postfix'", 2)
+("100:4: 'Completer.global_matches'", 6)
+("119:4: 'Completer.attr_matches'", 8)
+("158:0: 'get_class_members'", 3)
+('TryExcept 165', 3)

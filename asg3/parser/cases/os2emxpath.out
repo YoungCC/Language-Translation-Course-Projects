@@ -1,0 +1,8 @@
+("35:0: 'normcase'", 1)
+("44:0: 'join'", 4)
+("58:0: 'splitunc'", 5)
+("88:0: 'basename'", 1)
+("95:0: 'dirname'", 1)
+("109:0: 'ismount'", 2)
+("120:0: 'normpath'", 7)
+("146:0: 'abspath'", 3)

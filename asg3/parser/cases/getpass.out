@@ -1,0 +1,6 @@
+("26:0: 'unix_getpass'", 12)
+("89:0: 'win_getpass'", 7)
+("112:0: 'fallback_getpass'", 2)
+("121:0: '_raw_input'", 6)
+("141:0: 'getuser'", 3)
+('TryExcept 161', 7)
